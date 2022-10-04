@@ -2058,8 +2058,6 @@ Channel name:VN: HY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419336
 Channel name:VN: HTVC MOVIES
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419335
-Channel name:VN: HTVC DU LICH CUOC SONG
-URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419334
 Channel name:VN: HTV TRUC TIEP
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419333
 Channel name:VN: HTV THE THAO
