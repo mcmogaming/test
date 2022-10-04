@@ -2058,7 +2058,7 @@ Channel name:VN: HY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419336
 Channel name:VN: HTVC MOVIES
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419335
-Channel name:VN: HTVC DU LICH & CUOC SONG
+Channel name:VN: HTVC DU LICH CUOC SONG
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419334
 Channel name:VN: HTV TRUC TIEP
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2419333
@@ -3526,7 +3526,7 @@ Channel name:24/7: BOXING MOVIES
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2104042
 Channel name:24/7: Bluey
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2104038
-Channel name:24/7: BLUE'S CLUES & YOU
+Channel name:24/7: BLUE'S CLUES  YOU
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2104037
 Channel name:24/7: BLUE'S CLUES
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2104036
@@ -3766,13 +3766,13 @@ Channel name:US: MUSIC CHOICE RAP 2K
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545357
 Channel name:US: MUSIC CHOICE RAP
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545356
-Channel name:US: MUSIC CHOICE R&B SOUL
+Channel name:US: MUSIC CHOICE RB SOUL
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545355
 Channel name:US: MUSIC CHOICE POP LATINO
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545354
 Channel name:US: MUSIC CHOICE POP HITS
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545353
-Channel name:US: MUSIC CHOICE POP & COUNTRY
+Channel name:US: MUSIC CHOICE POP  COUNTRY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545352
 Channel name:US: MUSIC CHOICE MEXICANA
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/545351
@@ -4478,7 +4478,7 @@ Channel name:US: MSG Plus FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/249479
 Channel name:US: MSG FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/249478
-Channel name:US: AT&T SportsNet Southwest
+Channel name:US: ATT SportsNet Southwest
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/249473
 Channel name:US: Spectrum SportsNet FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/249472
@@ -4770,7 +4770,7 @@ Channel name:MX: Cinemax HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113935
 Channel name:MX: Fox Action SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113934
-Channel name:MX: A&E SD
+Channel name:MX: AE SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113933
 Channel name:MX: Cine Canal Vip
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113932
@@ -4844,7 +4844,7 @@ Channel name:MX: Discovery Turbo
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113898
 Channel name:MX: Discovery Kids 292
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113897
-Channel name:MX: Discovery Home & Health 236
+Channel name:MX: Discovery Home  Health 236
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113896
 Channel name:MX: Discovery 308
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113895
@@ -4966,7 +4966,7 @@ Channel name:MX: Azteca 1 HD Opc 2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113836
 Channel name:MX: Europa Europa SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113835
-Channel name:MX: Film & Arts HD
+Channel name:MX: Film  Arts HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113834
 Channel name:MX: ADN40 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113833
@@ -5008,7 +5008,7 @@ Channel name:MX: Tv Cuatro (Leon) HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113815
 Channel name:MX: FXM HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113814
-Channel name:MX: A&E HD
+Channel name:MX: AE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113813
 Channel name:MX: A3 Series HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113812
@@ -5130,7 +5130,7 @@ Channel name:MX: Discovery World HD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113754
 Channel name:MX: Discovery Channel HD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113753
-Channel name:MX: Discovery H&H HD
+Channel name:MX: Discovery HH HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113752
 Channel name:MX: National Geographic HD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113751
@@ -5206,7 +5206,7 @@ Channel name:MX: Azteca UNO..
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113716
 Channel name:MX: Europa Europa SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113715
-Channel name:MX: Film & Arts SD
+Channel name:MX: Film  Arts SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113714
 Channel name:MX: ADN40 SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113713
@@ -5352,7 +5352,7 @@ Channel name:MX: Discovery Channel SD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113643
 Channel name:MX: Animal Planet SD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113642
-Channel name:MX: Discovery H&H HD | Cultural
+Channel name:MX: Discovery HH HD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113641
 Channel name:MX: NAT GEO SD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113640
@@ -6286,7 +6286,7 @@ Channel name:LA | Discovery Theater | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112997
 Channel name:LA | Discovery Science | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112996
-Channel name:MX: Discovery H&H SD | Cultural
+Channel name:MX: Discovery HH SD | Cultural
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112995
 Channel name:CR: ANEXION TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112994
@@ -6428,7 +6428,7 @@ Channel name:Ã¢â‚¬Â¢ DM | Discovery Turbo
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112926
 Channel name:Ã¢â‚¬Â¢ DM | Discovery Kids 292
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112925
-Channel name:Ã¢â‚¬Â¢ DM | Discovery Home & Health 236
+Channel name:Ã¢â‚¬Â¢ DM | Discovery Home  Health 236
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112924
 Channel name:Ã¢â‚¬Â¢ DM | Discovery 308
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112923
@@ -6460,7 +6460,7 @@ Channel name:Ã¢â‚¬Â¢ DM | Antena 3 Internacional 218
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112910
 Channel name:Ã¢â‚¬Â¢ DM | Animal Planet 316
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112909
-Channel name:Ã¢â‚¬Â¢ DM | A&E LatinoamÃƒÂ©rica 230
+Channel name:Ã¢â‚¬Â¢ DM | AE LatinoamÃƒÂ©rica 230
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112908
 Channel name:CR: ANEXION TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112907
@@ -6602,7 +6602,7 @@ Channel name:Ã¢â‚¬Â¢ DM | Discovery Turbo
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112839
 Channel name:Ã¢â‚¬Â¢ DM | Discovery Kids 292
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112838
-Channel name:Ã¢â‚¬Â¢ DM | Discovery Home & Health 236
+Channel name:Ã¢â‚¬Â¢ DM | Discovery Home  Health 236
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112837
 Channel name:Ã¢â‚¬Â¢ DM | Discovery 308
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112836
@@ -6634,7 +6634,7 @@ Channel name:Ã¢â‚¬Â¢ DM | Antena 3 Internacional 218
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112823
 Channel name:Ã¢â‚¬Â¢ DM | Animal Planet 316
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112822
-Channel name:Ã¢â‚¬Â¢ DM | A&E LatinoamÃƒÂ©rica 230
+Channel name:Ã¢â‚¬Â¢ DM | AE LatinoamÃƒÂ©rica 230
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112821
 Channel name:EC: GOL TV ECUADOR HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112820
@@ -6716,7 +6716,7 @@ Channel name:MX: Cinemax HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112782
 Channel name:MX: Fox Action SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112781
-Channel name:MX: A&E SD
+Channel name:MX: AE SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112780
 Channel name:LATINO: Hbo Signature HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112779
@@ -6758,7 +6758,7 @@ Channel name:LATINO: HBO HD Opc 1
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112761
 Channel name:LATINO: Starz West HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112760
-Channel name:LATINO: Starz Kids & Family HD
+Channel name:LATINO: Starz Kids  Family HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112759
 Channel name:LATINO: Starz HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/112758
@@ -7662,7 +7662,7 @@ Channel name:BR: DISCOVERY TLC HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/109852
 Channel name:BR: DISCOVERY THEATER HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/109851
-Channel name:BR: DISCOVERY HOME & HEALTH HD
+Channel name:BR: DISCOVERY HOME  HEALTH HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/109850
 Channel name:BR: CURTA! HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/109849
@@ -7906,7 +7906,7 @@ Channel name:THAI: MTV-Asia
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55609
 Channel name:THAI: Fah Won Mai Thai
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55608
-Channel name:THAI: Bull & Chicken Showtime
+Channel name:THAI: Bull  Chicken Showtime
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55607
 Channel name:THAI: Sabaidee
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55606
@@ -7918,7 +7918,7 @@ Channel name:TH:TVRI Sport
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55530
 Channel name:AF: kykNET Nou!
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55425
-Channel name:AF: kykNET & Kie
+Channel name:AF: kykNET  Kie
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55424
 Channel name:AF: Naija Stand-Up Comedy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/55423
@@ -8810,7 +8810,7 @@ Channel name:AR: Gulli Bil Arabie
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/52447
 Channel name:AR: Fox Rewayat HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/52446
-Channel name:AR: Fix & Foxi
+Channel name:AR: Fix  Foxi
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/52445
 Channel name:AR: FilmBox HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/52444
@@ -8916,7 +8916,7 @@ Channel name:BG: bTVComedy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/51502
 Channel name:BG: bTVLady
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/51501
-Channel name:BG: C&INetwork
+Channel name:BG: CINetwork
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/51500
 Channel name:BG: CBSReality
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/51499
@@ -9948,7 +9948,7 @@ Channel name:AL: ShqipTV Mimi HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16167
 Channel name:AL: ShqipTV Stupcat HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16172
-Channel name:AL: ShqipTV Tom & Jerry HD
+Channel name:AL: ShqipTV Tom  Jerry HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16169
 Channel name:AL: ShqipTV WESTERN
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16175
@@ -10746,7 +10746,7 @@ Channel name:BR: ESPN HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5327
 Channel name:BR: ESPN Brasil
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5328
-Channel name:BR: A&E
+Channel name:BR: AE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5673
 Channel name:BR: ANIMAL PLANET
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5674
@@ -11090,7 +11090,7 @@ Channel name:CA: Super Ecran 2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16926
 Channel name:CA: YES  local
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/16907
-Channel name:CA: A&E HD
+Channel name:CA: AE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17650
 Channel name:CA: ACTION HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17703
@@ -11576,7 +11576,7 @@ Channel name:EX-YU: NOVA TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4342
 Channel name:EX-YU: OBN
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4187
-Channel name:EX-YU: Pink & Roll
+Channel name:EX-YU: Pink  Roll
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3515
 Channel name:EX-YU: Pink 1
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3560
@@ -11588,9 +11588,9 @@ Channel name:EX-YU: Pink BH
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3577
 Channel name:EX-YU: Pink Comedy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3512
-Channel name:EX-YU: Pink Crime  & Mistery
+Channel name:EX-YU: Pink Crime   Mistery
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3531
-Channel name:EX-YU: Pink Crime & Mystery
+Channel name:EX-YU: Pink Crime  Mystery
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3576
 Channel name:EX-YU: Pink Extra
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3565
@@ -11628,9 +11628,9 @@ Channel name:EX-YU: Pink Reality
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3574
 Channel name:EX-YU: Pink Romance
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3572
-Channel name:EX-YU: Pink Sci-Fi & Fantasy
+Channel name:EX-YU: Pink Sci-Fi  Fantasy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3573
-Channel name:EX-YU: Pink Sci-Fi&Fantasy
+Channel name:EX-YU: Pink Sci-FiFantasy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3500
 Channel name:EX-YU: Pink Serije
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3564
@@ -11956,7 +11956,7 @@ Channel name:FR: PIWI HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4988
 Channel name:FR: PLANETE  HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4981
-Channel name:FR: PLANETE A&E HD
+Channel name:FR: PLANETE AE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4983
 Channel name:FR: PLANETE CI HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4982
@@ -11968,7 +11968,7 @@ Channel name:FR: RTS Un
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3720
 Channel name:FR: SCIENCE ET VIE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4987
-Channel name:FR: SCIENCES & VIE
+Channel name:FR: SCIENCES  VIE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4986
 Channel name:FR: SERIE CLUB
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3719
@@ -12160,7 +12160,7 @@ Channel name:DE: Sky  BUNDESLIGA 2 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3623
 Channel name:DE: Sky  BUNDESLIGA 10 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3631
-Channel name:DE: A&E
+Channel name:DE: AE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17640
 Channel name:DE: Nickelodeon HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17744
@@ -12526,7 +12526,7 @@ Channel name:DE: Disney Cinemagic HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/523
 Channel name:DE: 13th Street FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6290
-Channel name:DE : A&E FHD
+Channel name:DE : AE FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6291
 Channel name:DE : Animal Planet FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6292
@@ -12956,7 +12956,7 @@ Channel name:HU: Sl
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/18142
 Channel name:HU: Muzsika TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/19193
-Channel name:HU: The Fishing &Hunting Channel
+Channel name:HU: The Fishing Hunting Channel
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8899
 Channel name:HU: Travel Channel
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8935
@@ -13140,7 +13140,7 @@ Channel name:IN: NICK JR
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5874
 Channel name:IN: Ten Cricket*
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5885
-Channel name:IN: & PICTURE HD
+Channel name:IN:  PICTURE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6205
 Channel name:IN: Hindi:NEWS X HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6208
@@ -13504,7 +13504,7 @@ Channel name:IN : Asianet Plus
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2394
 Channel name:IN: AASTHA
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/320
-Channel name:IN: &TV HD
+Channel name:IN: TV HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/321
 Channel name:IN: SONY SAB
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/325
@@ -13684,7 +13684,7 @@ Channel name:IT: FOX HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/533
 Channel name:IT: Fox Crime HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2322
-Channel name:IT: Discovery Travel&Living HD
+Channel name:IT: Discovery TravelLiving HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2325
 Channel name:IT: Discovery Science HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2326
@@ -13938,7 +13938,7 @@ Channel name:Latino: AXN HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5202
 Channel name:Latino: Animal Planet
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5203
-Channel name:Latino: A&E HD
+Channel name:Latino: AE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5204
 Channel name:Latino: Az Click HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/6791
@@ -14012,7 +14012,7 @@ Channel name:Latino: E!
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7384
 Channel name:Latino: EL GOURMET
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7415
-Channel name:Latino: Film & Arts
+Channel name:Latino: Film  Arts
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7374
 Channel name:Latino: FORO TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7412
@@ -14066,7 +14066,7 @@ Channel name:Latino: BOOMERANG
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7769
 Channel name:Latino: CINEMAX
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7768
-Channel name:Latino: DISCOVERY  HOME & HEALTH
+Channel name:Latino: DISCOVERY  HOME  HEALTH
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7763
 Channel name:Latino: DISCOVERY SCIENCE.
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7762
@@ -14290,7 +14290,7 @@ Channel name:NL: Discovery World
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17633
 Channel name:NL: Food Network
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17636
-Channel name:NL: Horse & Country TV
+Channel name:NL: Horse  Country TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17635
 Channel name:NL: Motors TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17631
@@ -14412,7 +14412,7 @@ Channel name:NL : Film1 Spotlight
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3922
 Channel name:NL: Film1 Premiere
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3923
-Channel name:NL : Film1 Comedy & Kids
+Channel name:NL : Film1 Comedy  Kids
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3924
 Channel name:NL: Film1 Action
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3925
@@ -14726,7 +14726,7 @@ Channel name:PT: AMC
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3980
 Channel name:PT: A BOLA TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3981
-Channel name:PT: A&E
+Channel name:PT: AE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3982
 Channel name:PT: 24 KITCHEN
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3983
@@ -14936,7 +14936,7 @@ Channel name:RO: HBO 2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4492
 Channel name:RO: Happy
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4607
-Channel name:RO: FISHING & HUNTING
+Channel name:RO: FISHING  HUNTING
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4493
 Channel name:RO: EUROSPORT 2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4494
@@ -15318,7 +15318,7 @@ Channel name:ES: AXN HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2705
 Channel name:ES: AMC
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5415
-Channel name:ES: A&E
+Channel name:ES: AE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5414
 Channel name:ES: #0 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2729
@@ -15480,7 +15480,7 @@ Channel name:SE: C More Live 1 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17248
 Channel name:SE: C More Live 4 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17250
-Channel name:SE: Horse & Country TV
+Channel name:SE: Horse  Country TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17247
 Channel name:SE: Discovery World
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17307
@@ -16044,7 +16044,7 @@ Channel name:TR: beIN SPORTS MAX 2 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17626
 Channel name:TR: Discovery Showcase HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17620
-Channel name:TR: VIASAT NATURA & VIASAT HISTORY
+Channel name:TR: VIASAT NATURA  VIASAT HISTORY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17621
 Channel name:TR: BBC Earth HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7025
@@ -16162,7 +16162,7 @@ Channel name:UK: ID + 1
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4449
 Channel name:UK: Horror Channel  +1
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4444
-Channel name:UK: Home&Health  +1
+Channel name:UK: HomeHealth  +1
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/4458
 Channel name:UK: Good Food
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/1038
@@ -16220,7 +16220,7 @@ Channel name:UK: ID
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/1429
 Channel name:UK: BT Sport 3 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5547
-Channel name:UK: Crime & Investigiation
+Channel name:UK: Crime  Investigiation
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5497
 Channel name:UK: Sky Sports Mix
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/5496
@@ -16294,15 +16294,15 @@ Channel name:UK: Sky Cinema Action HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7300
 Channel name:UK: Sky Cinema Comedy HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7297
-Channel name:UK: Sky Cinema Crime & Thriller HD
+Channel name:UK: Sky Cinema Crime  Thriller HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7293
 Channel name:UK: Sky Cinema Disney HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7298
-Channel name:UK: Sky Cinema Drama & Romance HD
+Channel name:UK: Sky Cinema Drama  Romance HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7294
 Channel name:UK: Sky Cinema Family HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7299
-Channel name:UK: Sky Cinema Sci-Fi & Horror HD
+Channel name:UK: Sky Cinema Sci-Fi  Horror HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7296
 Channel name:UK: Sky Cinema Select HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/7292
@@ -16626,7 +16626,7 @@ Channel name:UK: London Live
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/1417
 Channel name:UK: ITV be
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/1627
-Channel name:UK: Home & Health
+Channel name:UK: Home  Health
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/66
 Channel name:UK:  Good Food
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/1414
@@ -16790,7 +16790,7 @@ Channel name:US: SYFY HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/124
 Channel name:US: TNT HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/122
-Channel name:US: A&E HD
+Channel name:US: AE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/50
 Channel name:US: ESPN
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/189
@@ -16856,7 +16856,7 @@ Channel name:US: Comedy Central FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8594
 Channel name:US: Cooking Channel FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8593
-Channel name:US: Crime & Investigation
+Channel name:US: Crime  Investigation
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8592
 Channel name:US: DESTINATION AMERICA
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/10184
@@ -16954,7 +16954,7 @@ Channel name:US: Spike FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8543
 Channel name:US: Sportsman FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8542
-Channel name:US: StarzKids & Family FHD
+Channel name:US: StarzKids  Family FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8540
 Channel name:US: Sundance FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/8539
@@ -17442,7 +17442,7 @@ Channel name:FR: Paris Premiere FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/26515
 Channel name:FR: Piwi  FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/26514
-Channel name:FR: Planete A&E FHD
+Channel name:FR: Planete AE FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/26512
 Channel name:FR: PlanÃƒÂ¯Ã‚Â¿Ã‚Â½te  Crime Investigation FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/26511
@@ -18034,7 +18034,7 @@ Channel name:CA : FIGHT NETWORK HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/27112
 Channel name:CA : GLOBAL HALIFAX HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/27111
-Channel name:UK: CRIME & INVESTIGATION FHD
+Channel name:UK: CRIME  INVESTIGATION FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/27118
 Channel name:UK: TG 4 FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/27117
@@ -18448,7 +18448,7 @@ Channel name:DE: Sky Sport Bundesliga 9 HD Backup
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/29137
 Channel name:TR: BEIN SPORTS iz 4K
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/29111
-Channel name:IT: Discovery Travel & Living HD
+Channel name:IT: Discovery Travel  Living HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/29172
 Channel name:IT: La 7 HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/29177
@@ -18936,9 +18936,9 @@ Channel name:ES: Vamos HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/31552
 Channel name:ES: MoviStar Cine
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/31563
-Channel name:ES: Movistar CineDoc&Roll
+Channel name:ES: Movistar CineDocRoll
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/31561
-Channel name:ES: Movistar CineDoc&Roll FHD
+Channel name:ES: Movistar CineDocRoll FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/31562
 Channel name:ES: Movistar Vamos
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/31554
@@ -19554,7 +19554,7 @@ Channel name:US: MSG
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40226
 Channel name:US: STARZ ENCORE WESTERNS
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40224
-Channel name:US: STARZ KIDS & FAMILY HD
+Channel name:US: STARZ KIDS  FAMILY HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40223
 Channel name:US: THE BLAZE
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40222
@@ -19846,7 +19846,7 @@ Channel name:GR: Thraki Net Tv
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40976
 Channel name:GR: Tile Musiki
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/40978
-Channel name:GR: TOM & JERRY
+Channel name:GR: TOM  JERRY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/41163
 Channel name:GR: Travel
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/41146
@@ -20496,7 +20496,7 @@ Channel name:NL: Fox Sports 6 FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46596
 Channel name:NL: History FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46589
-Channel name:NL: Horse & Country TV FHD
+Channel name:NL: Horse  Country TV FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46590
 Channel name:NL: RTL Crime FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46614
@@ -20566,7 +20566,7 @@ Channel name:US: GSN FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46817
 Channel name:US: Hallmark FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46816
-Channel name:US: Hallmark Movies & Mysteries FHD
+Channel name:US: Hallmark Movies  Mysteries FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46815
 Channel name:US: HBO Family FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46812
@@ -20592,7 +20592,7 @@ Channel name:US: Showtime East FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46805
 Channel name:US: Showtime2 FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46804
-Channel name:US: StarzKids & Family FHD
+Channel name:US: StarzKids  Family FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46802
 Channel name:US: Sundance FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/46841
@@ -21724,7 +21724,7 @@ Channel name:CA: SPORTS NET 360 SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/111536
 Channel name:CA: SCVLT (SUPER CHANNEL VAULT) SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/111537
-Channel name:CA: SCHRT (SUPER CHANNEL HEART & HOME) SD
+Channel name:CA: SCHRT (SUPER CHANNEL HEART  HOME) SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/111538
 Channel name:CA: SCGNX (SUPER CHANNEL GNX) SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/111539
@@ -22000,11 +22000,11 @@ Channel name:COL: RCN HD2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113378
 Channel name:COL: RCN SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113379
-Channel name:COL: Senal Colombia &gt;)
+Channel name:COL: Senal Colombia gt;)
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113380
 Channel name:COL: SURAM TV
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113381
-Channel name:COL: Cosmovision &gt;)
+Channel name:COL: Cosmovision gt;)
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113369
 Channel name:COL: El Tiempo
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113370
@@ -22028,9 +22028,9 @@ Channel name:COL: Cantinazo
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113361
 Channel name:COL: CARACOL
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113362
-Channel name:COL: Caracol &gt;)
+Channel name:COL: Caracol gt;)
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113363
-Channel name:COL: Caracol FHD &gt;)
+Channel name:COL: Caracol FHD gt;)
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113364
 Channel name:COL: Caracol HD2
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/113365
@@ -22732,7 +22732,7 @@ Channel name:KRD: KRD KURDISTAN NATURE HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187053
 Channel name:KRD: KRD LOONEY TUNES HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187054
-Channel name:KRD: KRD TOM &amp; JERRY HD
+Channel name:KRD: KRD TOM amp; JERRY HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187055
 Channel name:KRD: KRD PINK PANTHER HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187056
@@ -22742,7 +22742,7 @@ Channel name:KRD: KRD MR. BEAN HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187058
 Channel name:KRD: KRD KURD CINEMA HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187059
-Channel name:KRD: KRD LAUREL &amp; HARDY
+Channel name:KRD: KRD LAUREL amp; HARDY
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187060
 Channel name:KRD: KRD TATLISES HD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187061
@@ -23148,7 +23148,7 @@ Channel name:URK: ESPRESOTV SD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187261
 Channel name:URK: ENTERFILM FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187262
-Channel name:URK: FASHIÓN &amp; LIFESTYLE FHD
+Channel name:URK: FASHIÓN amp; LIFESTYLE FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187263
 Channel name:URK: FOOTBALL 1 FHD
 URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2187264
