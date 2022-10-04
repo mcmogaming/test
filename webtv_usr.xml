@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<webtvs>
+<tv>
 <webtv title="MY: TV2" urlkey="0" url="http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421677" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
 <webtv title="MY: TV3" urlkey="0" url="http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421676" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
 <webtv title="MY: ASTRO CITRA" urlkey="0" url="http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421675" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
@@ -12146,4 +12146,4 @@
 <webtv title="Power Book III S01 E08" urlkey="0" url="http://bestbuyiptv.tv:8080/series/ppssppfan51/Ubk8Jn/2242184.mkv" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
 <webtv title="Power Book III S01 E09" urlkey="0" url="http://bestbuyiptv.tv:8080/series/ppssppfan51/Ubk8Jn/2242185.mkv" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
 <webtv title="Power Book III S01 E10" urlkey="0" url="http://bestbuyiptv.tv:8080/series/ppssppfan51/Ubk8Jn/2242186.mkv" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
-</webtvs>
+</tv>
