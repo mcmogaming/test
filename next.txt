@@ -1,0 +1,43 @@
+Channel name:CA: CBC VANCOUVER HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17960
+Channel name:CA: CBS HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17959
+Channel name:CA: CBS WEST HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17958
+Channel name:CA: CITY VANCOUVER SD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17955
+Channel name:CA: CNN INTERNATIONAL
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17953
+Channel name:CA: COMEDY EAST HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17952
+Channel name:CA: CP24 HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17949
+Channel name:CA: CTV 2 VANCOUVER SD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17948
+Channel name:CA: CTV NEWS NETWORK SD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17947
+Channel name:CA: CTV OTTAWA SD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17946
+Channel name:CA: CTV TORONTO HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17945
+Channel name:CA: DISCOVERY CANADA HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17943
+Channel name:CA: DISCOVERY SCIENCE
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17942
+Channel name:CA: DISNEY HD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17941
+Channel name:CA: FOX WEST SD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/17940
+Channel name:CA: sports net world hd
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/3058
+Channel name:MY: DISNEY XD
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421603
+Channel name:MY: DISNEY JR
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421602
+Channel name:MY: DISNEY CHANNEL
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421601
+Channel name:MY: CARTOON NETWORK
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421600
+Channel name:MY: NICKELODEON
+URL:http://bestbuyiptv.tv:8080/ppssppfan51/Ubk8Jn/2421599
+[Webtv channel END]
